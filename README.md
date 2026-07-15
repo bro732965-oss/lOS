@@ -1,5 +1,5 @@
 # lOS
-![driver](console.jpg)
+![driver](console.png)
 Простая операционная система для офисной работы.
 
 ---
