@@ -59,7 +59,7 @@
 - **Файловая система:** FAT32
 - **Графика:** GOP (Graphics Output Protocol)
 - **Сеть:** TCP/IP, DNS, HTTP/HTTPS
-- **API:** GitHub API
+- **API:** sky API
 
 ---
 
