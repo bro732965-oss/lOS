@@ -69,4 +69,4 @@ MIT License — свободное использование
 
 ---
 
-**SKYBOX HYDRO OS** © 2024
+**SKYBOX HYDRO OS** © 2026
